@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ILoveZappos</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="shoes_array_full">
+        <item>Reebok</item>
+        <item>Nike</item>
+        <item>Addidas</item>
+        <item>Aldo</item>
+        <item>Kenneth Cole</item>
+    </string-array>
+
+    <string name="brandName">brandName</string>
+    <string name="thumbnailImageUrl">thumbnailImageUrl</string>
+    <string name="productId">productId</string>
+    <string name="originalPrice">originalPrice</string>
+    <string name="styleId">styleId</string>
+    <string name="colorId">colorId</string>
+    <string name="price">price</string>
+    <string name="percentOff">percentOff</string>
+    <string name="productUrl">productUrl</string>
+    <string name="productName">productName</string>
+    <string name="notice">Zappos</string>
+</resources>

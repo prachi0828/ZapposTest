@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name" translatable="false">SearchLibrary</string>
+    <string name="search_hint">Search&#8230;</string>
+
+    <string-array name="shoes_array_full">
+        <item>Reebok</item>
+        <item>Nike</item>
+        <item>Addidas</item>
+        <item>Aldo</item>
+        <item>Kenneth Cole</item>
+    </string-array>
+
+    <string name="hint_prompt">Speak an item name or number</string>
+</resources>
